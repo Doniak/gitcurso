@@ -3,6 +3,7 @@
 - [Ana Paula Rosa Negri](https://github.com/ananegri/)
 - [Eraldo Silveira e Silva](https://github.com/eraldoss/)
 - [Juliana Camilo Inácio](https://github.com/julianacamiloinacio)
+- [Marcio Doniak](https://github.com/Doniak/)
 - [Maria Cláudia de Almeida Castro](https://github.com/mariaclaudiacastro/)
 - [Mayara de Sousa](https://github.com/professoramayara/)
 - [Odilson Tadeu Valle](https://github.com/odilson/)
